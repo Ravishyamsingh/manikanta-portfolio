@@ -1,0 +1,37 @@
+{
+  "profile": {
+    "name": "Bolnidi Manikanta",
+    "initials": "BM",
+    "resumePdf": "/Bolnidi_Manikanta_Resume.pdf",
+    "portrait": "/pfp/manikanta.jpg",
+    "role": {
+      "prefix": "Application developer,",
+      "emphasis": "full-stack builder"
+    },
+    "location": "India",
+    "availability": "",
+    "email": "manikanta.bolnidi@gmail.com",
+    "intro": "I build practical software across learning, security, property and operations — from full-stack web products to tools that make complex workflows easier to use.",
+    "notes": [
+      "Application Developer & Marketing at Simple Hearing and Speech Care, while freelancing on full-stack products for real users.",
+      "I enjoy turning a rough workflow into a dependable product, from browser-based experiences and backend services to authentication and payments.",
+      "B.Tech in Computer Science & Engineering at Kalasalingam University, with a focus on Java, web systems and practical software engineering."
+    ],
+    "deskWelcome": "Welcome to my portfolio — have a look around.",
+    "links": [
+      {
+        "label": "GitHub",
+        "href": "https://github.com/BolnidiManikanta"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://linkedin.com/in/bolnidi-manikanta"
+      },
+      {
+        "label": "Email",
+        "href": "mailto:manikanta.bolnidi@gmail.com"
+      }
+    ]
+  },
+  "headlineStats": []
+}

@@ -1,0 +1,19 @@
+{
+  "updated": "2026-10",
+  "lede": "A snapshot, short and sweet.",
+  "items": [
+    {
+      "label": "Working on",
+      "what": "Application development and marketing at Simple Hearing and Speech Care."
+    },
+    {
+      "label": "Building",
+      "what": "Full-stack products for property enquiries, gym administration and interactive learning."
+    },
+    {
+      "label": "Exploring",
+      "what": "Practical application security, from email protection to automated vulnerability testing."
+    }
+  ],
+  "foot": "A small snapshot of what is keeping me busy right now."
+}

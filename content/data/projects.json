@@ -1,0 +1,126 @@
+[
+  {
+    "slug": "birch-and-brick",
+    "name": "Birch & Brick — Rental Property Website",
+    "tagline": "Direct tenant enquiries without brokers",
+    "year": 2026,
+    "kind": "Product",
+    "meta": "Aug–Sep 2026 · React, Vite, Node.js, Express.js, PostgreSQL",
+    "lede": "A responsive rental property website that helps a Sector 43, Gurugram property reach tenants directly.",
+    "highlights": [
+      "Designed and developed a responsive property website that enables direct tenant enquiries without broker involvement.",
+      "Structured the platform for direct outreach to nearby **hospitals, corporate offices, colleges and hotels**.",
+      "Focused the experience on referral-based tenant leads and clear property information instead of a generic listing catalogue."
+    ],
+    "stack": [
+      "React",
+      "Node.js",
+      "Express.js",
+      "PostgreSQL"
+    ],
+    "images": [
+      "/work/birch-and-brick.png"
+    ]
+  },
+  {
+    "slug": "olympia-gym",
+    "name": "Smart Gym Management Platform — Olympia Gym",
+    "tagline": "Contactless verification and automated gym administration",
+    "year": 2026,
+    "kind": "Product",
+    "meta": "Mar 2026 · React, Vite, Node.js, Express.js, MongoDB, Razorpay",
+    "lede": "A full-stack PWA for member verification, attendance, roles and payments at Olympia Gym.",
+    "highlights": [
+      "Engineered browser-based facial recognition with **face-api.js** and **TensorFlow.js** for contactless member verification.",
+      "Implemented Firebase Authentication with **role-based access control** and automated attendance tracking for gym administration.",
+      "Built the PWA with React, Tailwind CSS, Node.js, Express and MongoDB, including **Razorpay** payment integration."
+    ],
+    "stack": [
+      "React",
+      "Node.js",
+      "Express.js"
+    ],
+    "images": [
+      "/work/olympia-gym.png"
+    ]
+  },
+  {
+    "slug": "interactive-java-learning-platform",
+    "name": "Interactive Java Learning Platform",
+    "tagline": "Gamified Java learning for 200+ students",
+    "year": 2025,
+    "kind": "Product",
+    "meta": "2025 · Java, React, TypeScript, Firebase, Tailwind CSS",
+    "lede": "A full-stack learning platform that turns Java practice into a guided, measurable experience.",
+    "highlights": [
+      "Built a platform used by **200+ students** with Firebase authentication and protected routes.",
+      "Added real-time synchronisation and analytics dashboards so learners and educators can track progress.",
+      "Designed gamified modules that make repeated Java practice easier to follow and finish."
+    ],
+    "stack": [
+      "React",
+      "TypeScript"
+    ],
+    "images": [
+      "/work/interactive-java-learning-platform.png"
+    ]
+  },
+  {
+    "slug": "virtual-cryptography-lab",
+    "name": "Virtual Lab — Cryptography Learning Platform",
+    "tagline": "Interactive cipher simulations with guided walkthroughs",
+    "year": 2025,
+    "kind": "Research",
+    "meta": "2025 · Cryptography, Tailwind CSS",
+    "lede": "An interactive virtual lab that makes cryptography concepts concrete through experimentation.",
+    "highlights": [
+      "Created an interactive lab used by **150+ students** to explore cryptographic concepts.",
+      "Implemented multi-cipher simulations with guided walkthroughs instead of relying on static explanations.",
+      "Added course progress tracking so learners can return to the lab and continue their practice."
+    ],
+    "stack": [],
+    "images": [
+      "/work/virtual-cryptography-lab.png"
+    ]
+  },
+  {
+    "slug": "email-security-system",
+    "name": "Email Security System",
+    "tagline": "Rule-based spam and attachment defence",
+    "year": 2024,
+    "kind": "System",
+    "meta": "2024 · Python, Flask, ClamAV",
+    "lede": "A security system that scores suspicious emails and scans attachments in real time.",
+    "highlights": [
+      "Detects spam emails and suspicious URLs through a rule-based scoring pipeline.",
+      "Added real-time attachment scanning with **ClamAV** to identify malicious files before they are trusted.",
+      "Exposed the workflow through a Flask application so security checks can be used as a practical service."
+    ],
+    "stack": [
+      "Python"
+    ],
+    "images": [
+      "/work/email-security-system.png"
+    ]
+  },
+  {
+    "slug": "web-vulnerability-scanner",
+    "name": "Automated Web Application Vulnerability Scanner",
+    "tagline": "Structured reports for common web vulnerabilities",
+    "year": 2024,
+    "kind": "System",
+    "meta": "2024 · Python, Ruby",
+    "lede": "An automated scanner for finding common web application weaknesses and turning them into actionable reports.",
+    "highlights": [
+      "Identifies **SQL injection**, **XSS** and security misconfigurations across web applications.",
+      "Automates repeatable checks so security reviews do not depend on manually replaying the same test cases.",
+      "Generates structured vulnerability reports that make findings easier to review and communicate."
+    ],
+    "stack": [
+      "Python"
+    ],
+    "images": [
+      "/work/web-vulnerability-scanner.png"
+    ]
+  }
+]

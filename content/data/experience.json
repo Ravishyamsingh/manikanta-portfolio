@@ -1,0 +1,55 @@
+{
+  "jobs": [
+    {
+      "slug": "simple-hearing-speech-care",
+      "role": "Application Developer & Marketing",
+      "company": "Simple Hearing and Speech Care",
+      "period": "Jul 2026 – Present",
+      "year": 2026,
+      "meta": "Simple Hearing and Speech Care · Application development & marketing · Jul 2026 – Present",
+      "lede": "Building applications while also helping the organisation communicate its work through marketing.",
+      "highlights": [
+        "Working as an **application developer** for Simple Hearing and Speech Care.",
+        "Contributing to the organisation's marketing activities alongside product and application work."
+      ],
+      "stack": []
+    },
+    {
+      "slug": "freelance-full-stack-developer",
+      "role": "Freelance Full-Stack Developer",
+      "company": "Independent",
+      "period": "2025 – Present",
+      "year": 2025,
+      "meta": "Independent · Freelance full-stack development · 2025 – Present",
+      "lede": "Building practical full-stack products for property and gym operations.",
+      "highlights": [
+        "Designed and developed Birch & Brick, a rental property website for direct tenant enquiries in Sector 43, Gurugram.",
+        "Engineered Olympia Gym's management platform with facial recognition, Firebase authentication, attendance tracking and Razorpay payments.",
+        "Delivered responsive browser experiences backed by React, Node.js, Express.js and database-driven workflows."
+      ],
+      "stack": [
+        "React",
+        "Node.js",
+        "Express.js",
+        "PostgreSQL"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kalasalingam University, Madurai, Tamil Nadu",
+      "degree": "B.Tech in Computer Science & Engineering",
+      "detail": "CGPA 8.6 / 10.0 · 2022 – 2026"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Top 7 of 700+ participants",
+      "event": "State-Level Hackathon on Website Development — A.K.D. Dharamraja College"
+    },
+    {
+      "title": "Top 5 of 450+ participants",
+      "event": "TechUstav Synergics 2.0 — Thiagarajar College of Engineering"
+    }
+  ]
+}
